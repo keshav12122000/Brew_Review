@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ## Deployed Link
 
-654cbd5cb5dcf70ffe9426c2--lively-dusk-601f49.netlify.app
+https://harmonious-dasik-c5195b.netlify.app/
 
 ### `npm start`
 
